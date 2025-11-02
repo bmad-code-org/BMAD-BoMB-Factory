@@ -1,1 +1,1 @@
-# BMAD-BoMB
+# BMAD-BoMB-Factory
